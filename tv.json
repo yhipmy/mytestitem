@@ -10,16 +10,15 @@
 					"https://tv.cctv.com/live/cctv1/",
 					"https://www.yangshipin.cn/tv/home?pid=600001859"
 				]
-				
+			},
+			{
 				"text": "CCTV2",
 				"url": [
 					"https://tv.cctv.com/live/cctv2/",
 					"https://www.yangshipin.cn/tv/home?pid=600001800"
 				]
-
-
-				
 			}
+			
 		]
 	},
 	{

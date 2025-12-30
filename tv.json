@@ -17,8 +17,120 @@
 					"https://tv.cctv.com/live/cctv2/",
 					"https://www.yangshipin.cn/tv/home?pid=600001800"
 				]
+			},
+			{
+				"text": "CCTV3",
+				"url": [
+					"https://tv.cctv.com/live/cctv3/",
+					"https://www.yangshipin.cn/tv/home?pid=600001801"
+				]
+			},
+			{
+				"text": "CCTV4",
+				"url": [
+					"https://tv.cctv.com/live/cctv4/",
+					"https://www.yangshipin.cn/tv/home?pid=600001814"
+				]
+			},
+			{
+				"text": "CCTV5",
+				"url": [
+					"https://tv.cctv.com/live/cctv5/",
+					"https://www.yangshipin.cn/tv/home?pid=600001818"
+				]
+			},
+			{
+				"text": "CCTV5+",
+				"url": [
+					"https://tv.cctv.com/live/cctv5plus/",
+					"https://www.yangshipin.cn/tv/home?pid=600001817"
+				]
+			},
+			{
+				"text": "CCTV6",
+				"url": [
+					"https://tv.cctv.com/live/cctv6/",
+					"https://www.yangshipin.cn/tv/home?pid=600108442"
+				]
+			},
+			{
+				"text": "CCTV7",
+				"url": [
+					"https://tv.cctv.com/live/cctv7/",
+					"https://www.yangshipin.cn/tv/home?pid=600004092"
+				]
+			},
+			{
+				"text": "CCTV8",
+				"url": [
+					"https://tv.cctv.com/live/cctv8/",
+					"https://www.yangshipin.cn/tv/home?pid=600001803"
+				]
+			},
+			{
+				"text": "CCTV9",
+				"url": [
+					"https://tv.cctv.com/live/cctvjilu/",
+					"https://www.yangshipin.cn/tv/home?pid=600004078"
+				]
+			},
+			{
+				"text": "CCTV10",
+				"url": [
+					"https://tv.cctv.com/live/cctv10/",
+					"https://www.yangshipin.cn/tv/home?pid=600001805"
+				]
+			},
+			{
+				"text": "CCTV11",
+				"url": [
+					"https://tv.cctv.com/live/cctv11/",
+					"https://www.yangshipin.cn/tv/home?pid=600001806"
+				]
+			},
+			{
+				"text": "CCTV12",
+				"url": [
+					"https://tv.cctv.com/live/cctv12/",
+					"https://www.yangshipin.cn/tv/home?pid=600001807"
+				]
+			},
+			{
+				"text": "CCTV13",
+				"url": [
+					"https://tv.cctv.com/live/cctv13/",
+					"https://www.yangshipin.cn/tv/home?pid=600001811"
+				]
+			},
+			{
+				"text": "CCTV14",
+				"url": [
+					"https://tv.cctv.com/live/cctvchild/",
+					"https://www.yangshipin.cn/tv/home?pid=600001809"
+				]
+			},
+			{
+				"text": "CCTV15",
+				"url": [
+					"https://tv.cctv.com/live/cctv15/",
+					"https://www.yangshipin.cn/tv/home?pid=600001815"
+				]
+			},
+			{
+				"text": "CCTV16",
+				"url": [
+					"https://tv.cctv.com/live/cctv16/",
+					"https://www.yangshipin.cn/tv/home?pid=600098637"
+				]
+			},
+			{
+				"text": "CCTV17",
+				"url": [
+					"https://tv.cctv.com/live/cctv17/",
+					"https://www.yangshipin.cn/tv/home?pid=600001810"
+				]
 			}
-			
+		
 		]
 	},
 	{
@@ -28,6 +140,126 @@
 			{
 				"text": "北京卫视",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002309"
+			},
+		    {
+				"text": "江苏卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002521"
+			},
+		    {
+				"text": "东方卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002483"
+			},
+		    {
+				"text": "浙江卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002520"
+			},
+		    {
+				"text": "湖南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002475"
+			},
+		    {
+				"text": "湖北卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002508"
+			},
+		    {
+				"text": "广东卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002485"
+			},
+		    {
+				"text": "广西卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002509"
+			},
+		    {
+				"text": "黑龙江卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002498"
+			},
+		    {
+				"text": "海南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002506"
+			},
+		    {
+				"text": "重庆卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002531"
+			},
+		    {
+				"text": "深圳卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002481"
+			},
+            {
+				"text": "四川卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002516"
+			},
+            {
+				"text": "河南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002525"
+			},
+            {
+				"text": "福建东南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002484"
+			},
+            {
+				"text": "贵州卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002490"
+			},
+            {
+				"text": "江西卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002503"
+			},
+	        {
+				"text": "辽宁卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002505"
+			},	
+	        {
+				"text": "安徽卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002532"
+			},		  
+			{
+				"text": "河北卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002493"
+			},		
+			{
+				"text": "山东卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002513"
+			},			
+			{
+				"text": "天津卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600152137"
+			},		
+			{
+				"text": "吉林卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190405"
+			},	
+			{
+				"text": "陕西卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190400"
+			},	
+			{
+				"text": "宁夏卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190737"
+			},	
+			{
+				"text": "内蒙古卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190401"
+			},			
+			{
+				"text": "云南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190402"
+			},	
+			{
+				"text": "山西卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190407"
+			},	
+			{
+				"text": "青海卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190406"
+			},	
+			{
+				"text": "西藏卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600190403"
+			},	
+			{
+				"text": "新疆卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600152138"
 			}
 		]
 	},
@@ -65,7 +297,7 @@
 				"alias": [
 					"第一集",
 					"第二集",
-					"第三集"
+					"第四集"
 				]
 			},
 			{
@@ -91,5 +323,23 @@
 				"url": "https://www.huya.com/"
 			}
 		]
-	}
+	},
+	{
+		"id": "7",
+		"text": "一起看",
+		"children": [
+			{
+				"text": "【周星星】星爷经典不间断",
+				"url": "https://www.huya.com/11342412"
+			},
+			{
+				"text": "抖音直播首页",
+				"url": "https://live.douyin.com/"
+			},
+			{
+				"text": "虎牙直播首页",
+				"url": "https://www.huya.com/"
+			}
+		]
+	}	
 ]
